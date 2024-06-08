@@ -12,5 +12,4 @@ This is a Java program that is based on the Tic Tac Toe game, the code working i
 10. The `haveWon` method checks for three possible winning conditions: rows, columns, and diagonals.
 11. The `printBoard` method is a helper method that prints the current state of the game board.
 
-Note: This implementation doesn't handle the case of a tie game, and it assumes that the user will enter valid row and column indices.
-      I am working on improving the project. 
+Note: This implementation doesn't handle the case of a tie game, and it assumes that the user will enter valid row and column indices. I am still working on improving the project. 
