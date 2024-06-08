@@ -1,4 +1,4 @@
-This is a Java program that is based on the Tic Tac Toe game, the code working is explained in short and easy way below:
+This is a Java program, based on the Tic Tac Toe game, the code working is explained in short and easy way below:
 
 1. The `TicTacToe` class is the main class that contains the `main` method.
 2. Inside the `main` method, a 2D character array `board` is created to represent the game board, and it is initialized with spaces.
