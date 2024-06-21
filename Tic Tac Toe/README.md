@@ -13,3 +13,9 @@ This is a Java program, based on the Tic Tac Toe game, the code working is expla
 11. The `printBoard` method is a helper method that prints the current state of the game board.
 
 Note: This implementation doesn't handle the case of a tie game, and it assumes that the user will enter valid row and column indices. I am still working on improving the project. 
+
+
+UPDATE
+
+`TicTacToeGUI.java` is a GUI-based version of the previous TicTacToe game. Made in Java using SwingUI
+This code creates a simple GUI-based Tic Tac Toe game using Java Swing. It sets up a 3x3 grid of buttons for the game board, implements game logic to handle player turns and win conditions, and includes a restart button. The TicTacToeGUI class extends JFrame and uses action listeners to respond to button clicks. It checks for wins after each move by examining rows, columns, and diagonals, and updates the status label to show the current player's turn or the game result.
